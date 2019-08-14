@@ -1,5 +1,7 @@
 # limo
 
+[泡泡推荐词](https://mp.weixin.qq.com/s?__biz=MzI5MTM1MTQwMw==&mid=2247502698&idx=1&sn=af25f7e2cbf65a700f7c07eb98850ece&chksm=ec13756edb64fc789bd22fc4acfaa40af3ddd20586b226b5adfc9978e30b625eadc5d7626879&mpshare=1&scene=1&srcid=0814J67kdgTyyMscKn9F6dk7&sharer_sharetime=1565764120404&sharer_shareid=662e33bcf39b24da66575a9f1c3f9ab8&pass_ticket=F%2FDcQUFoziFQRIZO5nFqbGSWQROwfTXyyFj%2B3FTug77yGQBpxqgMTzUTPyXdfXYW#rd)
+
 Lidar-Monocular Visual Odometry.
 This library is designed to be an open platform for visual odometry algortihm development.
 We focus explicitely on the simple integration of the following key methodologies:
